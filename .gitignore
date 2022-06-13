@@ -1,0 +1,81 @@
+# Ignore list for Eagle, a PCB layout tool
+
+# Backup files
+*.s#?
+*.b#?
+*.l#?
+
+# Eagle project file
+# It contains a serial number and references to the file structure
+# on your computer.
+# comment the following line if you want to have your project file included.
+eagle.epf
+
+# CAM files
+*.$$$
+*.cmp
+*.ly2
+*.l15
+*.sol
+*.plc
+*.stc
+*.sts
+*.crc
+*.crs
+
+*.dri
+*.drl
+*.gpi
+*.pls
+
+*.drd
+*.drd.*
+
+*.info
+
+*.eps
+*.GBL
+*.GBO
+*.GBS
+*.GBP
+*.GTL
+*.GTO
+*.GTS
+*.GTP
+*.GKO
+*.txt
+*.GML
+*.png
+*.pdf
+*.scr
+*.pro
+*.pro
+*.eup
+eagleUp/ZephMultiples.log
+*.pnl
+TestBench.dxf
+*.ai
+ZephMultiples.dxf
+*.job
+Eurorack Set 8 - Second Production Run/Frontpanels/Wobbler_Rev1.PNLDESC
+*.PNLDESC
+*.zip
+*.AssemblyBottom
+*.AssemblyTop
+*.GBOold
+*.SILK
+EuroForError/Gerbers/BigBus_Error/BigBus_Error.Assembly
+Eurorack Set 9/FrontPanels/RectangularThingExp-01-01.psd
+Eurorack Set 9/FrontPanels/a.jpg
+*.fpd
+*.SLICES
+adafruit.lbr
+dp_devices.lbr
+Teensy_3_and_LC_Series_Boards_v1.4.lbr
+Teensy_3_and_LC_Series_Boards_v1.4.lbr
+Teensy_3_and_LC_Series_Boards_v1.4.lbr
+Development/Eurorack Set 2021/EurorackShared
+Development/Eurorack Set 2021/Wobbler2Code
+Development/Eurorack Set 2021/Factory
+Development/Eurorack Set 2021/Gerbers
+Development/Eurorack Set 2021/libfixmath
