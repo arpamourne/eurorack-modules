@@ -147,7 +147,7 @@
 <pin name="SAW_OUT" x="12.7" y="0" length="short" rot="R180"/>
 <pin name="PULSE_OUT" x="12.7" y="5.08" length="short" rot="R180"/>
 <pin name="PWM_IN-" x="-22.86" y="7.62" length="short"/>
-<pin name="PWM_IN+" x="-22.86" y="10.16" length="short"/>
+<pin name="PWM_IN+" x="-22.86" y="10.16" length="short"/> 
 <text x="5.08" y="38.1" size="5.08" layer="94" rot="R90" align="center">SSI2130 VCO</text>
 <wire x1="-20.32" y1="63.5" x2="-20.32" y2="-30.48" width="0.254" layer="94"/>
 <wire x1="-20.32" y1="-30.48" x2="10.16" y2="-30.48" width="0.254" layer="94"/>
