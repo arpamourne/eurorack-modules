@@ -193,7 +193,7 @@ Thomas Hopman</text>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="ESP32_CODEC_BOARD" prefix="IC">
+<deviceset name="ESP32_CODEC_BOARD" prefix="IC"> 
 <gates>
 <gate name="G$1" symbol="ESP32_CODEC_BOARD_V1" x="0" y="0"/>
 </gates>
